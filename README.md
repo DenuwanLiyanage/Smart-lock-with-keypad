@@ -1,2 +1,4 @@
 # Smart-lock-with-keypad
- This project is a smart lock which unlock by the pincode. 
+ This is a smart lock which unlock by a pincode. It has an admin mode to initiate pincode to EEPROM.
+It can have approximately 100 pincodes in EEPROM which depend on your device EEPROM size.
+
